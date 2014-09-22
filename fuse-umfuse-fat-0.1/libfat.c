@@ -3,11 +3,12 @@
 
 	Rev 0.3	aka "Beta version"
 	
-	Copyright (C) 2006-2007  Paolo Angelelli <angelell@cs.unibo.it>
+	Copyright (C) 2006-2014  Paolo Angelelli <angelell@cs.unibo.it>
 	
-	Acknowledgments to Salvatore Isaja, auctor of fat support for freedos32	
-	since utf8/16 routines are taken from freedos32 unicode module,
-	Renzo Davoli for bugfixes, big endian support and more.
+	Acknowledgments to :
+	- Salvatore Isaja, author of the fat support for freedos32,	
+	as the utf8/16 routines are taken from freedos32 unicode module.
+	- Renzo Davoli for bugfixes, big endian support and more.
 	
 	This software is free software; it can be (re)distributed under the terms 
 	of the GNU GPL General Public License as published by the Free Software 
